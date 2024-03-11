@@ -43,10 +43,10 @@ Here are the steps using a macOS, Linux or UNIX command-line:
 1. Get the project and setup the database
 ```bash
 # Clone the repo to your current directory
-git clone https://github.com/nstuyvesant/sveltekit-auth-example.git
+git clone https://github.com/parthpaghdal0/svelte-auth.git
 
 # Install the dependencies
-cd /sveltekit-auth-example
+cd /svelte-auth
 npm install
 
 # Create PostgreSQL database
